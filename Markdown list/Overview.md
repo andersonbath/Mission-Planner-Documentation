@@ -10,7 +10,7 @@ This is a basic paragraphg
 My linkedin is [here][Linkedin]
 
 ### Sample Table
-| Left Row | Center Row | Right Row|
+| ### Left Row | Center Row | Right Row|
 |:--:|:--:|:--:|
 | Rivals | Tekken | Cupead" |
 
