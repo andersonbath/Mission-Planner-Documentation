@@ -8,3 +8,8 @@ This is a basic paragraphg
 
 [Linkedin]:https://www.linkedin.com/in/anderson-bath/
 My linkedin is [here][Linkedin]
+
+### Sample Table
+| Left Roq | Center Row | Right Row|
+|:------:|:------:|:------:|
+| Rivals | Tekken | Cupead" |
