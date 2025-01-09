@@ -10,6 +10,6 @@ This is a basic paragraphg
 My linkedin is [here][Linkedin]
 
 ### Sample Table
-| This is a test for size | Center Row | Right Row|
-|:------:|:------:|:------:|
+| Left Row | Center Row | Right Row|
+|:----------:|:------:|:------:|
 | Rivals | Tekken | Cupead" |
