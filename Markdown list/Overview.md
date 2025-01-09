@@ -11,5 +11,7 @@ My linkedin is [here][Linkedin]
 
 ### Sample Table
 | Left Row | Center Row | Right Row|
-|:----------:|:------:|:------:|
+|:--:|:--:|:--:|
 | Rivals | Tekken | Cupead" |
+
+
