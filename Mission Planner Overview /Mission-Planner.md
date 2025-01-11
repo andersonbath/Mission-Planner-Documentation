@@ -38,5 +38,6 @@ After completeing all the setup steps the firmware will start downloading and la
 6. If the plane icon isn't over the home waypoint repeat step 4
 7. Go to the action tab and from the drop down list left of the Set Mode button select QSTABILIZE then press set mode![Screenshot 2025-01-11 165332](https://github.com/user-attachments/assets/0408a32f-7f5e-42e3-8794-9eba656cbf63)
 8. Press the Arm/Disarm button to arm the quadplane and in the HUD it should now say ARMED ![image](https://github.com/user-attachments/assets/adbaf28d-092b-4787-ad32-d4f50daf4cf8)
-9. Open the drop down list used in step 7 and select Auto then press the Set Mode button
+9. Open the drop down list used in step 7 and select Auto then press the Set Mode button. The mission should start and the as seen in the HUD the altitude should start rising
+10. If the waypoints disappear after step 9 go back to the plan tab and press the write button then repeat step 9 again and the quadplane should take off
 
