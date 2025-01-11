@@ -13,10 +13,15 @@ Mission Planner is a ground control station for Plane, Copter and Rover. It is c
 3. On the map right click on the desired takeoff location and select set home
 4. Selcet the way point radius size (default = 90m)
 5. Left click on the map to place a waypoint close to the home waypoint then select the command VTOL_TAKEOFF. Make sure the home waypoint is inside the takeoff waypoint's area
+ 
 ![image](https://github.com/user-attachments/assets/dbcbab4c-6679-4c99-8533-63917e258389)
-6. Continue placing waypoints to design your quadplane's path ![image](https://github.com/user-attachments/assets/afdfea0e-796e-4441-ac83-521b45beee79)
-7. To complete your mission plan with a quadplane have your second last waypoint be the command DO_VTOL_TRANSITION and your final waypoint be the command VTOL_LAND for the quadplane to land (The quadplane can land wherever and is not restricted to landing at the home waypoint) ![image](https://github.com/user-attachments/assets/749bcdee-c381-47d2-a1e9-e00c3c10fcf2)
-8. To save you mission plan press the Save File button on the right side of the screen select the location you wish to save it. To continue working on a mission plan or to load for simulation use press the Load File button on the right side of the screen (Make sure to manually save your mission plan everytime or it will be lost when closing the mission planner)
+
+7. Continue placing waypoints to design your quadplane's path
+
+![image](https://github.com/user-attachments/assets/afdfea0e-796e-4441-ac83-521b45beee79)
+
+8. To complete your mission plan with a quadplane have your second last waypoint be the command DO_VTOL_TRANSITION and your final waypoint be the command VTOL_LAND for the quadplane to land (The quadplane can land wherever and is not restricted to landing at the home waypoint) ![image](https://github.com/user-attachments/assets/749bcdee-c381-47d2-a1e9-e00c3c10fcf2)
+9. To save you mission plan press the Save File button on the right side of the screen select the location you wish to save it. To continue working on a mission plan or to load for simulation use press the Load File button on the right side of the screen (Make sure to manually save your mission plan everytime or it will be lost when closing the mission planner)
 
 
 ###
@@ -34,7 +39,8 @@ The Simulation tab provides a SITL (Software in the Loop) simulation capability.
   ![image](https://github.com/user-attachments/assets/f2c9776c-eb35-4a9f-be37-340213158935)
 - Select the applicable the firmware to run in the simlation
 ![image](https://github.com/user-attachments/assets/60f5533d-89c1-42a2-838e-4f216b7affec)
-- Select which version you want to use between Latest and Stable (you should be fine with either) 
+- Select which version you want to use between Latest and Stable (you should be fine with either)
+  
 ![image](https://github.com/user-attachments/assets/e74dbd32-caf8-41d6-bc27-69fce410b481)
 
 After completeing all the setup steps the firmware will start downloading and launch the simluation. 
