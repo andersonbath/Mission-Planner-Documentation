@@ -21,7 +21,11 @@ The Simulation tab provides a SITL (Software in the Loop) simulation capability.
   - (Optional) To wipe any previous changes made in the config page that are causing simulation errors select the check box labeled wipe
   ![image](https://github.com/user-attachments/assets/7650590a-3863-49d8-b0f4-d1fd7e5b319f)
   ![image](https://github.com/user-attachments/assets/f2c9776c-eb35-4a9f-be37-340213158935)
-- (Optional
+- Select the applicable the firmware to run in the simlation
+- Select the version
+- Select which version you want to use between Latest and Stable (you should be fine with either) 
+![image](https://github.com/user-attachments/assets/60f5533d-89c1-42a2-838e-4f216b7affec)
+![image](https://github.com/user-attachments/assets/e74dbd32-caf8-41d6-bc27-69fce410b481)
 
 
 ## Setting Up a Quadplane Simulation
