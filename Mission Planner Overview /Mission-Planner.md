@@ -26,6 +26,7 @@ The Simulation tab provides a SITL (Software in the Loop) simulation capability.
 - Select which version you want to use between Latest and Stable (you should be fine with either) 
 ![image](https://github.com/user-attachments/assets/e74dbd32-caf8-41d6-bc27-69fce410b481)
 
-
+After completeing all the setup steps the firmware will start downloading and launch the simluation. 
 
 ## Setting Up a Quadplane Simulation
+1. Follow the [setup section](#Setup)
