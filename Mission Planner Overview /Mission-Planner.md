@@ -1,4 +1,4 @@
-### Mission Planner Overview
+# Mission Planner Overview
 
 Mission Planner is a full-featured ground station application for the ArduPilot open source autopilot project. This page contains information on the background of Mission Planner and the organization of this site.
 ### What is Mission Planner
@@ -23,7 +23,7 @@ Mission Planner is a ground control station for Plane, Copter and Rover. It is c
 
 The Simulation tab provides a SITL (Software in the Loop) simulation capability. Many typical frame types for each Vehicle type have been created. This allows you to see the expected behavior for vehicles in missions, or with a joystick attached, actually be able to fly/drive the vehicle simulation as if with RC. This allows you to see potential effects of parameter changes on vehicle behavior or explore mission generation, without risking your vehicle first.
 
-# Setup 
+## Setup 
 
 - Select the simulation page
 - Advanced users only:
