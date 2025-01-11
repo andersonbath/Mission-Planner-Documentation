@@ -19,8 +19,8 @@ The Simulation tab provides a SITL (Software in the Loop) simulation capability.
 - Advanced users only:
   - (Optional) Select the applicable model
   - (Optional) To wipe any previous changes made in the config page that are causing simulation errors select the check box labeled wipe
-  ![image](https://github.com/user-attachments/assets/f2c9776c-eb35-4a9f-be37-340213158935)
   ![image](https://github.com/user-attachments/assets/7650590a-3863-49d8-b0f4-d1fd7e5b319f)
+  ![image](https://github.com/user-attachments/assets/f2c9776c-eb35-4a9f-be37-340213158935)
 - (Optional
 
 
