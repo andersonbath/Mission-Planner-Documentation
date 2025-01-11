@@ -32,6 +32,7 @@ After completeing all the setup steps the firmware will start downloading and la
 ## Setting Up a Quadplane Simulation
 1. Follow the [setup section](#Setup) and make sure the model is set to quadplane
 2. Once the simulation is set up go to the mission planner plan page
-3. Create or load an existing mission plan for the Quadplane to take (follow the steps in [creating a simple mission plan section](#Creating-a-simple-mission-plan). Press the load file button on the right screen and select the save mission plan from wherever its stored on your computer ![image](https://github.com/user-attachments/assets/3df651d0-07a4-4c3f-9ac4-69f42f0101d7)                                                                                    
-4. Load the mission onto the simulated quadplane by pressing the write then the read button the right side of the screen !
+3. Create or load an existing mission plan for the Quadplane to take (follow the steps in [creating a simple mission plan section](#Creating-a-simple-mission-plan). ![image](https://github.com/user-attachments/assets/2dce5701-bb59-4aa2-a338-f9da5efa00b2)                                                                                    
+4. Press the load file button on the right screen and select the save mission plan from wherever its stored on your computer. To load the mission onto the simulated quadplane by pressing the write then the read button the right side of the screen
+5. 
 
