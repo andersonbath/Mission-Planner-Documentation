@@ -7,6 +7,7 @@ Mission Planner is a full-featured ground station application for the ArduPilot 
 
 Mission Planner is a ground control station for Plane, Copter and Rover. It is compatible with Windows only. Mission Planner can be used as a configuration utility or as a dynamic control supplement for your autonomous vehicle. Here are just a few things you can do with Mission Planner:
 
+## Creating a simple mission plan
 
 ###
 # Simulation Page
@@ -29,4 +30,6 @@ The Simulation tab provides a SITL (Software in the Loop) simulation capability.
 After completeing all the setup steps the firmware will start downloading and launch the simluation. 
 
 ## Setting Up a Quadplane Simulation
-1. Follow the [setup section](#Setup)
+1. Follow the [setup section](#Setup) and make sure the model is set to quadplane
+2. Once the simulation is set up go to the mission planner plan page
+3. Create or load an existing mission plan for the Quadplane to take (follow the steps in [creating a simple mission plan section](#Creating a simple mission plan)
