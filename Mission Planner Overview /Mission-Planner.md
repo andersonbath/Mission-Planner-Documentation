@@ -7,6 +7,32 @@ Mission Planner is a full-featured ground station application for the ArduPilot 
 
 Mission Planner is a ground control station for Plane, Copter and Rover. It is compatible with Windows only. Mission Planner can be used as a configuration utility or as a dynamic control supplement for your autonomous vehicle. Here are just a few things you can do with Mission Planner:
 
+# Plan Tab
+
+## Using Waypoints
+
+### Waypoint Table
+
+- WP Radius: This will be the radius the plane has to fly through before moving on to the next objective
+
+- Loiter Radius: The radius the plane will loiter in if set to loiter
+
+- Default Altitude: This is the distance the plane will fly above the takeoff point. The altitude where the plane is armed is the new reference of zero altitude
+
+- Verify Height: This is used to prevent the plane from flying into a hill inadvertently. So if a waypoint is on have this selected mission planner will increase the ALT setting by the height of the hill
+
+- Add Below: This button will add a waypoint in the table below without placing it on the map
+
+![image](https://github.com/user-attachments/assets/fc19755b-3c63-47f3-a530-16e4d3de9dbc)
+
+
+## Tips
+
+
+## Mission Commands 
+
+
+
 ## Creating a simple quadplane mission plan
 1. Open the mission planner plan tab
 2. (Optional) Go to the flying field on the map
@@ -23,9 +49,7 @@ Mission Planner is a ground control station for Plane, Copter and Rover. It is c
 8. To complete your mission plan with a quadplane have your second last waypoint be the command DO_VTOL_TRANSITION and your final waypoint be the command VTOL_LAND for the quadplane to land (The quadplane can land wherever and is not restricted to landing at the home waypoint) ![image](https://github.com/user-attachments/assets/749bcdee-c381-47d2-a1e9-e00c3c10fcf2)
 9. To save you mission plan press the Save File button on the right side of the screen select the location you wish to save it. To continue working on a mission plan or to load for simulation use press the Load File button on the right side of the screen (Make sure to manually save your mission plan everytime or it will be lost when closing the mission planner)
 
-
-###
-# Simulation Page
+# Simulation Tab
 
 The Simulation tab provides a SITL (Software in the Loop) simulation capability. Many typical frame types for each Vehicle type have been created. This allows you to see the expected behavior for vehicles in missions, or with a joystick attached, actually be able to fly/drive the vehicle simulation as if with RC. This allows you to see potential effects of parameter changes on vehicle behavior or explore mission generation, without risking your vehicle first.
 
